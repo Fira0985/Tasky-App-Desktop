@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Fira0985/tasky-desktop.git
+git clone https://github.com/Fira0985/Tasky-App-Desktop.git
 cd tasky-desktop
 Install Java: Ensure that Java JDK 17+ is installed on your system. Download here.
 
